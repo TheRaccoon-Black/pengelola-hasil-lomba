@@ -1,0 +1,2 @@
+# pengelola-hasil-lomba
+Buatlah sebuah program yang dapat digunakan untuk mengelola hasil perlombaan Balap Mobil yang diikuti oleh 15 peserta. Program harus memiliki menu pilihan, seperti entri data, pencarian data, dan penentuan juara. Perlu diingat bahwa penilaian lomba ditentukan oleh waktu peserta mencapai finish. Data yang perlu diinputkan meliputi data identitas peserta dan data pertandingan berupa waktu mencapai finish (detik)
